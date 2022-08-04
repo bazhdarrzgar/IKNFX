@@ -2,7 +2,7 @@
 
 ## IKNKFX By Cameron Fous
 
-![image](cameron fous.jpeg)
+<img src="cameron fous.jpeg">
 
 </div>
 

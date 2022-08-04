@@ -1,16 +1,12 @@
 ## How To find Whats Moving RIGHT NOW on Tradingview
 
-* Example
-
-![image](images/folder4/photo_2022-08-04_15-33-55.jpg)
-![image](images/folder4/photo_2022-08-04_15-33-56.jpg)
-![image](images/folder4/'photo_2022-08-04_15-33-572.jpg)
-![image](images/folder4/photo_2022-08-04_15-33-57.jpg)
-![image](images/folder4/photo_2022-08-04_15-33-58.jpg)
-
-* Order
-
-![image](images/folder4/photo_2022-08-04_15-33-59.jpg)
-![image](images/folder4/photo_2022-08-04_15-34-00.jpg)
-
-
+![iamge](images/folder12/photo_2022-08-04_18-15-25.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-26.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-27.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-28.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-29.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-30.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-31.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-32.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-34.jpg)
+![iamge](images/folder12/photo_2022-08-04_18-15-35.jpg)

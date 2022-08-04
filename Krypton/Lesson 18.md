@@ -1,18 +1,20 @@
 ## XRP - My $30,000 Profit That Destroyed the XRP Fu-kboys
 
-## Expectation
+* Expectation
 
-![image](images/folder5/photo_2022-08-04_15-34-17.jpg)
-![image](images/folder5/photo_2022-08-04_15-34-18.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-14.jpg)
 
 * Example
-  
-![image](images/folder5/photo_2022-08-04_15-34-19.jpg)
-![image](images/folder5/photo_2022-08-04_15-34-20.jpg)
-![image](images/folder5/photo_2022-08-04_15-34-21.jpg)
-![image](images/folder5/photo_2022-08-04_15-34-24.jpg)
+
+![image](images/folder3/photo_2022-08-04_15-31-07.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-08.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-06.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-13.jpg)
 
 * Order
-
-![image](images/folder5/photo_2022-08-04_15-34-22.jpg)
-![image](images/folder5/photo_2022-08-04_15-34-23.jpg)
+  
+![image](images/folder3/photo_2022-08-04_15-31-09.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-10.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-11.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-12.jpg)
+![image](images/folder3/photo_2022-08-04_15-31-132.jpg)
